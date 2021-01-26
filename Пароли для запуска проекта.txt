@@ -1,0 +1,6 @@
+Login:AdminKnor1
+Passwod:college1234567
+Login:AdminKazin2
+Passwod:college7654321
+Login:Admin
+Passwod:admin
